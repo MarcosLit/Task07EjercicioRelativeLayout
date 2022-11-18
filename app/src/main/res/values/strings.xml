@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Task07EjercicioRelativeLayout</string>
+    <string-array name="estadoCivil">
+        <item>Solter@</item>
+        <item>Casad@</item>
+        <item>Divorciad@</item>
+        <item>Viud@</item>
+    </string-array>
+    <string-array name="cargo">
+        <item>Ventas</item>
+        <item>Informatica</item>
+        <item>Jardineria</item>
+    </string-array>
+</resources>
